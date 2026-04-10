@@ -1,0 +1,12 @@
+Package: com.vlesscore.app
+Name: vless-core
+Version: 0.2.17-1
+Architecture: iphoneos-arm
+Description: vless-core app
+Maintainer: notfence
+Author: notfence
+Section: Network
+Priority: optional
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: debs/vlesscore.deb
+Size: 2731580
