@@ -11,3 +11,4 @@ Depends: firmware (>= 6.0), mobilesubstrate
 Filename: debs/vlesscore.deb
 Size: 2731580
 Icon: https://defenders08.github.io/icons/vlesscore.png
+Depiction: https://defenders08.github.io/depiction/vlesscore.html
