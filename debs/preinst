@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "Cleaning cache of Auxo..."
+rm -r /var/mobile/Library/Auxo/Snapshots/
+rm -r /var/mobile/Library/Preferences/com.acubed.auxopad.plist
+echo "Cleaning cache done."
+
+exit 0
