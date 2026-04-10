@@ -10,5 +10,15 @@ Priority: optional
 Depends: firmware (>= 6.0), mobilesubstrate
 Filename: debs/vlesscore.deb
 Size: 2731580
-Icon: https://defenders08.github.io/icons/vlesscore.png
-Depiction: https://defenders08.github.io/depiction/vlesscore.html
+
+Package: vn.gsm.auxopad
+Name: Auxo for iPad
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Description: A fantastic re-imagined multitasking bar!
+Maintainer: Cydia.vn <repo@cydia.vn>
+Author: A3tweaks
+Section: Tweaks
+Depends: gsmicon, firmware (>= 6.0), mobilesubstrate, preferenceloader, applist, com.a3tweaks.flipswitch, gsc.ipad
+Filename: debs/auxopad.deb
+Size: 681370
