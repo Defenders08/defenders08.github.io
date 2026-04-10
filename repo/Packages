@@ -1,0 +1,36 @@
+Package: com.vlesscore.app
+Name: vless-core
+Version: 0.2.17-1
+Architecture: iphoneos-arm
+Description: vless-core app
+Maintainer: notfence
+Author: notfence
+Section: Network
+Priority: optional
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: debs/vlesscore.deb
+Size: 2731580
+
+Package: vn.gsm.auxopad
+Name: Auxo for iPad
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Description: A fantastic re-imagined multitasking bar!
+Maintainer: Cydia.vn <repo@cydia.vn>
+Author: A3tweaks
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist, com.a3tweaks.flipswitch, gsc.ipad
+Filename: debs/auxopad.deb
+Size: 681370
+
+Package: jp.ashikase.showcase
+Name: ShowCase
+Version: 1.3.4.2-1
+Architecture: iphoneos-arm
+Description: Make keyboard show current case.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Lance Fetters (ashikase)
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/showcase.deb
+Size: 6258
